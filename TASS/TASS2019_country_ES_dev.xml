@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/locale/intl.css" type="text/css"?>
+<parsererror xmlns="http://www.mozilla.org/newlayout/xml/parsererror.xml">Error de lectura XML: mal formado
+Ubicación: http://tass.sepln.org/tass_data/dataset/TASS2019_country_ES_dev.xml
+Número de línea 3106, columna 88:<sourcetext>		&lt;content&gt;Lo mejor de todo...la felicidad felices porque pronto veremos la boda de J&amp;P… https://t.co/RXtpPrcVe7&lt;/content&gt;
+-----------------------------------------------------------------------------------------------------^</sourcetext></parsererror>
